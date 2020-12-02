@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const { Client, Collection } = require("discord.js")
 const { readdirSync } = require("fs")
-
+const { play, stop } = require('./commands.js');
 const client = new Discord.Client();
 client.login('YOUR_TOKEN');
 
