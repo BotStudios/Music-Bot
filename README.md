@@ -14,3 +14,5 @@ A Discord.js Music Bot
 
 
 4. Done
+
+Make Sure To Join Our [DISCORD SERVER](https://discord.gg/s56rMHNwhC) If You Need More Help
