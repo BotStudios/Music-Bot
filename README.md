@@ -18,4 +18,12 @@ A Discord.js Music Bot
 
 5. Done
 
+
+#### Note
+
+> Use .env To Store Your Token
+
+> Use config To Store Your Token
+
+
 Make Sure To Join Our [DISCORD SERVER](https://discord.gg/s56rMHNwhC) If You Need More Help
