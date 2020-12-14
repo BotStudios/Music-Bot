@@ -3,9 +3,7 @@ const { Client, Collection } = require("discord.js")
 const { readdirSync } = require("fs")
 const { play, stop } = require('./commands.js');
 const client = new Discord.Client();
-client.login(TOKEN);
-//const TOKEN = process.env.TOKEN; 
-require('dotenv').config() //Use This If "process.env.TOKEN" is not working.
+client.login("YOUR_BOT_TOKEN");
 
 client.on('ready', () => console.log('Bot has logged in!'));
 client.on("ready", () => {
