@@ -7,12 +7,15 @@ A Discord.js Music Bot
 1. First Do `git clone https://github.com/BotStudios/Music-Bot.git` In Your Terminal
 
 
-2. Then `npm i`
+2. cd Music-Bot
 
 
-3. Replace YOUR_TOKEN To Your Bot's Token In index.js
+3. Then `npm i`
 
 
-4. Done
+4. Replace YOUR_TOKEN To Your Bot's Token In index.js
+
+
+5. Done
 
 Make Sure To Join Our [DISCORD SERVER](https://discord.gg/s56rMHNwhC) If You Need More Help
