@@ -7,7 +7,7 @@ A Discord.js Music Bot
 1. First Do `git clone https://github.com/BotStudios/Music-Bot.git` In Your Terminal
 
 
-2. cd Music-Bot
+2. After Clonning The Repo, Do `cd Music-Bot`
 
 
 3. Then `npm i`
