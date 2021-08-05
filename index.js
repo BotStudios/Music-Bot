@@ -22,7 +22,7 @@ client.on('message', (msg) => {
     return play(msg, args);
   else if (commandName === 's')
     return stop(msg, args);
-});
+
   if (commandName === 'play')
     return play(msg, args);
   else if (commandName === 'stop')
